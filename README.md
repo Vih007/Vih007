@@ -11,7 +11,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vih007&layout=compact&langs_count=16&theme=nightowl"/>
   </a>
 </div>
-![Snake animation](https://github.com/Vih007/Vih007/blob/output/dist/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/Vih007/Vih007/output/dist/github-contribution-grid-snake.svg)
+
 
 
 
