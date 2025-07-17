@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá! Eu sou a Vitória
 
-<!--
-**Vih007/Vih007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Apaixonada por tecnologia, desenvolvimento web e bancos de dados  
+🎯 Sempre em busca de aprender coisas novas e evoluir como desenvolvedora   
+🎵 Amo ouvir música enquanto codifico  
+🤝 Aberta a conexões, projetos colaborativos e novas oportunidades!
+<div>
+  <a href="https://beacons.ai/Vih007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vih007&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vih007&layout=compact&langs_count=16&theme=nightowl"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
