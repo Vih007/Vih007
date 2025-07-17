@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Vitória
+## 👋 Olá! Eu sou Vitória
 
 🎓 Estudante de Engenharia de Software  
 💻 Apaixonada por tecnologia, desenvolvimento web e bancos de dados  
