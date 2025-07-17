@@ -12,7 +12,8 @@
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Vih007/Vih007/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Vih007/Vih007/output/github-contribution-grid-snake.svg)
+
 
 
 
