@@ -7,7 +7,7 @@
 🤝 Aberta a conexões, projetos colaborativos e novas oportunidades!
 <div>
   <a href="https://beacons.ai/Vih007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vih007&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vih007&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&cache_seconds=86400"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vih007&layout=compact&langs_count=16&theme=nightowl"/>
   </a>
 </div>
